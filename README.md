@@ -1,1 +1,1 @@
-PFC Help file.  This repository has the source code.  The help file as a Compiled HMTL Help (.chm) or PDF is available for directly download from the [Releases link] (https://github.com/OpenSourcePFCLibraries/Help-File-Source/releases/tag/1.0).
+PFC Help file.  This repository has the source code.  The help file as a Compiled HMTL Help (.chm) or PDF is available for directly download from the [Releases link](https://github.com/OpenSourcePFCLibraries/Help-File-Source/releases/tag/1.0).
